@@ -3,7 +3,7 @@
 Welcome to the Sales Dashboard project repository! This project focuses on analyzing sales data from a US-based company spanning 2014 to 2017. Through Excel, we've crafted an interactive dashboard that provides comprehensive insights into sales performance across different product categories and states.
 
 ## Dashboard Preview:
-![Dashboard Preview]![Sales Dashboard - Excel](https://github.com/PremkumarRajendraPrasath/Sales-Dashboard-with-Excel-Data-Analyst-Project/assets/166136162/61f2fbd3-9118-4952-9077-5fe31981696c)
+![Sales Dashboard - Excel](https://github.com/PremkumarRajendraPrasath/Sales-Dashboard-with-Excel-Data-Analyst-Project/assets/166136162/61f2fbd3-9118-4952-9077-5fe31981696c)
 
 
 ## Features:
